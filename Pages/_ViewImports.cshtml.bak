@@ -1,0 +1,3 @@
+@using EnergyUI
+@namespace EnergyUI.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
